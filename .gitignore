@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# Docker
+*.log
+
+# OS
+.DS_Store
+
+# Cursor / IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Claude temp
+.claude/cache/
+
+# Portainer
+portainer_data/
