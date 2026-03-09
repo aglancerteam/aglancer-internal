@@ -1,2 +1,5 @@
 redis
 python-dotenv
+supabase
+httpx
+anthropic

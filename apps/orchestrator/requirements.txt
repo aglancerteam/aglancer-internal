@@ -4,3 +4,4 @@ httpx
 redis
 python-dotenv
 supabase
+anthropic
